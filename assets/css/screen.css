@@ -461,6 +461,7 @@ margin on the iframe, cause it breaks stuff. */
 .vertical {
     display: table-cell;
     vertical-align: middle;
+    background-color: #63595940;
 }
 
 
@@ -679,6 +680,13 @@ margin on the iframe, cause it breaks stuff. */
     color: rgba(255,255,255,0.8);
 }
 
+.home-template .main-header-content .page-description p a {
+    background-color: transparent;
+    border: 1px solid #3c6282;
+    color: #3c6282;
+    padding: 04px 45px;
+    text-decoration: none;
+}
 .no-cover.main-header {
     min-height: 160px;
     max-height: 40%;
