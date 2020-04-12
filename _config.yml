@@ -1,6 +1,6 @@
 name: Lucas Eduardo Melzi
-description: Site about my studies
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+description: Criei este blog para trazer alguns estudos que estou realizando, escrever um pouco sobre o que estou aprendendo e também poder compartilhar artigos sobre área de tecnologia
+meta_description: "Studies, datascience"
 
 markdown: kramdown
 highlighter: pygments
