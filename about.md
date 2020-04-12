@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About me 
+title: Lucas Eduardo Melzi
 ---
 
-This is a static page. It could be an 'about page' if you'd like.
+Acadêmico em Análise e desenvolvimento de sistemas, conhecimentos em desenvolvimento web com ferramentas *CMS WordPress, GitLab, PHP, CSS3, HTML5, Linux/Ubuntu/Shell, Banco de dados SQL Server e MySQL*.<br />
+Hoje, atuando na área de integração de dados utlizando os melhores métodos e sempre buscando evolução para ganho de produtividade.
