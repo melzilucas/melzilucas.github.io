@@ -811,6 +811,10 @@ body:not(.post-template) .post-title {
     font-size: 1.3rem;
     white-space: nowrap;
 }
+.post-content p .image-post {
+    max-width: 710px;
+    margin: 0 auto;
+}
 
 .user-image {
     position: absolute;
