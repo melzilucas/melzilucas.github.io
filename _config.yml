@@ -12,7 +12,7 @@ google_analytics: 'UA-164026118-1'
 Gens: ['jekyll-paginate', 'jekyll-seo-tag']
 
 # Details for the RSS feed generator
-url:            'blog url'
+url:            'https://melzilucas.github.io'
 author:         'Lucas Eduardo Melzi'
 
 # Gems
