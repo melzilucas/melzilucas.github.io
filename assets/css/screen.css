@@ -686,6 +686,8 @@ margin on the iframe, cause it breaks stuff. */
     color: #3c6282;
     padding: 04px 45px;
     text-decoration: none;
+    top: 15px;
+    position: relative;
 }
 .no-cover.main-header {
     min-height: 160px;
