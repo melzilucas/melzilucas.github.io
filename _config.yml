@@ -9,12 +9,11 @@ paginate: 15
 baseurl: /
 domain_name: 'https://melzilucas.github.io'
 google_analytics: 'UA-164026118-1'
-Gens: ['jekyll-paginate', 'jekyll-seo-tag']
+gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
 url:            'https://melzilucas.github.io'
 author:         'Lucas Eduardo Melzi'
 
-# Gems
-plugins :
-- jekyll-seo-tag
+plugins_dir:
+  - jekyll-seo-tag
