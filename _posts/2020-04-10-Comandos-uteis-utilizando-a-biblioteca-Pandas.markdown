@@ -2,11 +2,8 @@
 layout: post
 title:  Comandos úteis utilizando a biblioteca Pandas
 date:   2020-04-10 10:18:00
-categories: data science, python
+categories: data-science python
 image: "/assets/images/pandas.jpg"
-tags:
-    - data science
-    - python
 ---
 
 <br>

@@ -2,7 +2,7 @@
 layout: post
 title:  Erro no apt-get após instalar Python 3.7.7 no Ubuntu
 date:   2020-04-12 10:18:00
-categories: ubuntu, python 
+categories: ubuntu python 
 image: "/assets/images/01.png"
 
 ---
