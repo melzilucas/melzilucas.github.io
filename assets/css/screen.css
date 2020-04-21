@@ -981,10 +981,11 @@ body:not(.post-template) .post-title {
     margin: 1rem 1.6rem 1.6rem 0;
     color: #BBC7CC;
     text-decoration: none;
+    font-size: 25px;
 }
 
 .post-footer .share a:hover {
-    color: #50585D;
+    color:rgb(29, 161, 242);
 }
 
 /* The subscribe icon on the footer */
@@ -1723,10 +1724,23 @@ body:not(.post-template) .post-title {
     .archive-template .main-header .page-description {
         display: none;
     }
+    .post-content p .image-post {
+        max-width: 380px;
+        margin: 0 auto;
+    }
 
 }
 
+/* ==========================================================================
+   11. Media Queries - Smaller than 400px
+   ========================================================================== */
+   @media only screen and (max-width: 400px) {
 
+    .post-content p .image-post {
+        max-width: 300px;
+        margin: 0 auto;
+    }
+}
 /* ==========================================================================
    12. Animations
    ========================================================================== */
