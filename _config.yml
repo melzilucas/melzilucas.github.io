@@ -17,3 +17,12 @@ author:         'Lucas Eduardo Melzi'
 
 plugins_dir:
   - jekyll-seo-tag
+
+social_links:
+  LinkedIn: https://www.linkedin.com/in/lucas-eduardo-melzi/
+  GitHub: https://github.com/melzilucas
+  Twitter: https://twitter.com/LucasMelzi
+  instagram: https://www.instagram.com/melzilucas/
+
+twitter:
+  username: LucasMelzi

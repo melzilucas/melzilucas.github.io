@@ -2,7 +2,9 @@
 layout: post
 title:  Erro no apt-get após instalar Python 3.7.7 no Ubuntu
 date:   2020-04-12 10:18:00
-categories: datascience python
+categories: ubuntu, python 
+image: "/assets/images/01.png"
+
 ---
 
 <br>
@@ -25,4 +27,4 @@ Após adicionar a chave, rodei o comando para atualizar o gerenciador de pacotes
 <pre>$ sudo apt-get update</pre> 
 
 <p><img class="image-post" src="/assets/images/03.png" width="150"><br>
-Conforme imagem acima, não ocorreu mais nenhum erro durante a atualização e no meu caso, o terminal gnome voltou a funcionar normalmente e o erro referente as atualizações do sistema, não acusou mais.</p>
+Conforme imagem acima, não ocorreu mais nenhum erro durante a atualização e no meu caso, o terminal gnome e as atualizações do sistema, voltaram a funcionar normalmente.
