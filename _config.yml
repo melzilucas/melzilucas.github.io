@@ -6,7 +6,7 @@ markdown: kramdown
 highlighter: pygments
 logo: false
 paginate: 15
-baseurl: https://melzilucas.github.io/
+baseurl: ""
 domain_name: 'https://melzilucas.github.io'
 google_analytics: 'UA-164026118-1'
 gems: [jekyll-paginate]
