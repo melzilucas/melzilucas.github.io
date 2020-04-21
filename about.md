@@ -10,3 +10,11 @@ Hoje, atuando na área de integração de dados utlizando os melhores métodos, 
 - E-Games
 - Trekking
 - Bodyboard
+
+<div class="social">
+    <a class="fa fa-github" href="https://github.com/melzilucas/" target="_blank"></a>
+    <a class="fa fa-linkedin" href="https://www.linkedin.com/in/lucas-eduardo-melzi/" target="_blank"></a>
+    <a class="fa fa-twitter" href="https://twitter.com/LucasMelzi" target="_blank"></a>       
+    <a class="fa fa-instagram" href="https://www.instagram.com/melzilucas/" target="_blank"></a>
+    <a class="fa fa-facebook" href="https://www.facebook.com/lucas.melzi/" target="_blank"></a>
+</div>
