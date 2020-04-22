@@ -7,8 +7,7 @@ image: "/assets/images/01.png"
 
 ---
 
-<br>
-<p>Após intalar a versão 3.7.7 do Python no Ubuntu 18.04, tive problemas com o gerenciador de pacotes apt-get e também acusava um erro referente as atualização do sistema, na barra superior: <b>problem occurred when checking for the updates.</b></p>
+<p>Após intalar a versão 3.7.7 do Python no Ubuntu 18.04, tive problemas com o gerenciador de pacotes apt-get e também acusava um erro referente às atualizações do sistema, na barra superior: <b>problem occurred when checking for the updates.</b></p>
 
 Buscando soluções em fóruns e comunidade, encontrei diversos tópicos que indicavam retornar para versão anteriores do Python, ou até mesmo remove-lô. Outro ponto bastante curioso, o terminal padrão do Ubuntu, conhecido como gnome terminal, não estava funcionando. Neste caso, ao atualizar o gerenciador de pacotes com o comando: 
 <pre>$ sudo apt-get update</pre>  

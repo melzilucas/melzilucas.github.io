@@ -6,7 +6,6 @@ categories: data-science python
 image: "/assets/images/pandas.jpg"
 ---
 
-<br>
 <p> Este post está em construção, nele vou descrever alguns funcionalidades do Pandas...</p>
 <p>Utilizamos Pandas no primeiro desafio da aceleração disponibilizado pela Codenation em Data science.</p>
 
