@@ -5,7 +5,7 @@ title: Lucas Eduardo Melzi
 
 Acadêmico em Análise e desenvolvimento de sistemas, conhecimentos em desenvolvimento Web e banco de dados MySQL e SQL Server.
 Experiência com liderença de equipe com foco em resultados.
-Hoje, atuando na área de integração de dados utlizando os melhores métodos, buscando sempre evolução e novos desafios.
+Hoje, atuando na área de integração de dados utlizando os melhores métodos, buscando sempre evolução e novos desafios. Iniciando os estudos na área de data science, participando da aceleração concedida pela [Codenation](https://codenation.dev){:target="_blank" rel="noopener"}.
 <br>Hobbies:
 - E-Games
 - Trekking
