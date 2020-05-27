@@ -1536,6 +1536,7 @@ body:not(.post-template) .post-title {
         border-radius: 0;
         color: #2e2e2e;
         background: transparent;
+        border: #3c628254 1.5px solid;
     }
     .back-button:hover,
     .subscribe-button:hover {
