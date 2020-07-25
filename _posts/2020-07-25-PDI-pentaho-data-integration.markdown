@@ -1,10 +1,11 @@
 ---
 layout: post
 title: PDI - Pentaho Data Integration
-date: 2020-07-24 22:00:00
-categories: pdi-pentaho integração-de-dados
+date: 2020-07-25 16:00:00
+categories: pdi-pentaho integração-de-dados data-integration
+image: "/assets/images/Pentaho-PDI.png" 
 ...
-Uma das ferramentas mais utilizadas para ETL, integração de dados entre outros recursos destinada a área.
+Uma das ferramentas mais utilizadas para ETL, integração de dados entre outros recursos destinados a área.
 Vamos conhecer um pouco mais sobre o Pentaho? 
 
 **O que é o Pentaho Data Integration ?** <br>
