@@ -36,3 +36,5 @@ Obs.: O tratamento dos dados pode ser realizado tanto no Script SQL como também
 * **Monitoramento das informações:** É possível utilizar recursos do PDI como, relatórios, gráficos e dashboards. Uma característica altamente recomendada e muito utilizada em desenvolvimento, o versionamento das transformações ou de qualquer alteração no processo, com possibilidade de *Rollback.*
 
 
+Fico à disposição para quem quiser bater um papo sobre a ferramenta, sugestões, ideias, críticas construtivas ou dúvidas. No meu [GitHub](https://github.com/melzilucas/Projects-ETL){:target="_blank" rel="noopener"} tenho um repositório destinado aos projetos e estudo sobre a ferramenta.  
+[Aqui](https://melzilucas.github.io/about.html){:target="_blank" rel="noopener"} você encontra meus contatos, valeu! :)
