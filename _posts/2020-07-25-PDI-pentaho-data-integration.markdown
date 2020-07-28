@@ -9,13 +9,13 @@ Uma das ferramentas mais utilizadas para ETL, integração de dados entre outros
 Vamos conhecer um pouco mais sobre o Pentaho? 
 
 **O que é o Pentaho Data Integration ?** <br>
-É um *Software open source* para inteligência de negócios (BI) baseado em Java, com foco em ETL, mineração de dados e cubos OLAP. Sua primeira versão foi lançada em 2004, onde no decorrer dos anos foi premiada como uma das melhores aplicações para inteligência empresarial.
+É um *Software open source* para inteligência de negócios (BI) baseado em Java, com foco em ETL (Extract, Transform, Load), mineração de dados e cubos OLAP (On-line Analytical Processing). Sua primeira versão foi lançada em 2004, onde no decorrer dos anos foi premiada como uma das melhores aplicações para inteligência empresarial.
 Existe também outras ferramentas da Pentaho *Corporation*, por exemplo: Pentaho *Analysis* Services, Pentaho *Reporting*, Pentaho *Dashboard*.
 
  **Como funciona:**<br>
 Basicamente o PDI funciona com Steps, onde cada um tem suas propriedades e características para exercer determinada função.
-Os Steps são ligados por Hops, onde é seguido um fluxo para que seja executada uma determinada atividade. 
-No simples exemplo abaixo, temos uma conexão a um banco de dados onde é executado um script SQL, inserido o resultado em um arquivo de texto .csv e enviado para um FTP, caso houver falha em algum Step, é enviado um e-mail para o analista responsável. 
+Os Steps são ligados por Hops - conectores, onde é seguido um fluxo para que seja executada uma determinada atividade. 
+No simples exemplo abaixo, temos uma conexão a um banco de dados onde é executado um script SQL, inserido o resultado em um arquivo de texto .csv e enviado para um FTP (File Transfer Protocol), caso houver falha em algum Step, é enviado um e-mail para o analista responsável. 
 
 
 [Step 01](https://melzilucas.github.io/assets/images/read-sql.png){:target="_blank" rel="noopener"} - leitura ao Banco de Dados e insere em um arquivo csv;
