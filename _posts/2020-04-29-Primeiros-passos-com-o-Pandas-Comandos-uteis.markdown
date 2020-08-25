@@ -102,11 +102,11 @@ df ['nome_coluna'].median ()
 **Agrupando e realizando análises aos dados:**
 Neste exemplo, estou agrupando o *Dataframe* por estados (coluna de agrupamento) e tirando a média da pontuação de crédito (coluna agregadora + função agregadora):
 ```python
-df.groupby ('coluna_de_agrupamento')['coluna_agredadora'].função_agredadora()
+df.groupby ('coluna_de_agrupamento')['coluna_agregadora'].função_agregadora()
 ```
 <p><img class="image-post" src="/assets/images/pandas-groupby-mean.png"></p>
 
-Caso a coluna de agrupamento seja a mesma, podemos adicionar mais colunas de agregação, logo também podemos adicionar outras funções agredadoras, veja:
+Caso a coluna de agrupamento seja a mesma, podemos adicionar mais colunas de agregação, logo também podemos adicionar outras funções agregadoras, veja:
 
 ```python
 df.groupby ('estado_residencia'). agg ({
