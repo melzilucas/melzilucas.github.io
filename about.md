@@ -6,7 +6,7 @@ title: Lucas Eduardo Melzi
 Graduado em Análise e desenvolvimento de sistemas, conhecimentos em desenvolvimento Web, integração de dados e banco de dados MySQL e MSSQL.
 Experiência em liderença de equipe com foco em resultados.
 Hoje, atuando na área de integração de dados utlizando os melhores métodos, buscando sempre evolução e novos desafios. Aceleração na área de Data Science realizada na codenation, concluída em junho/2020, [veja o certificado](https://melzilucas.github.io/assets/images/certificado_codenation.pdf){:target="_blank" rel="noopener"}.
-Atualmente estudando o PDI - Pentaho Data Integration, Apache NiFi, processos de ETL e mineração de dados.
+Atualmente estudando Apache Ni-Fi, processos de ETL, ferramentas de BI e mineração de dados.
 <br>Hobbies:
 - E-Games
 - Trekking
