@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DASHBOARDS ? Quem são ? Do que se aliemtam ? Por onde andam ? [EM CONSTRUÇÃO]
+title: Dashboards ? Quem são ? Do que se aliemtam ? Por onde andam ? [EM CONSTRUÇÃO]
 date: 2021-10-16 00:00:00
 categories: Visualização-de-Dados Business-Intelligence Data-Analytics
 image: "/assets/images/dashboards.png" 
