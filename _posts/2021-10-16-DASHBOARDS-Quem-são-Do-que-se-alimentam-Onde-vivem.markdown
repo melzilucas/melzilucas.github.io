@@ -7,4 +7,17 @@ image: "/assets/images/dashboards.png"
 
 ...
 
-Neste post vamos falar sobre Dashboards, suas características, utilização e aplicação. 
+
+**Quem são ?:**
+>São painéis visuais que apresentam um conjunto de informações de forma organizada: indicadores, medições e métricas.
+Customizáveis para atender às demandas específicas de cada empresa e suas áreas.
+Entende-se que de maneira visual o entendimento e interpretação aos dados se torna altamente atrativa e fácil.
+
+**Do que se alimentam ?:**
+>Dados! Neste tópico engloba diversas questões sobre tratamento, saneamentos aos dados, cargas, ETL*(Extract Transform Load)*, arquitetura, armazenamento entre outros. Mas a regra é clara, sem dados, sem dashboards!
+
+**Por onde andam ?:**
+>Atualmente com diversas ferramentas disponíveis gratuitas e *open source* no mercado, os dashboards estão aparecendo com uma crescente significativa, devido às demandas e também a importância notada sobre os dados e o resultado que essas análises podem trazer. Podemos visualiza-los em:
+* Ferramentas próprias de Business Intelligence: Tableau, Power Bi, Google Data Studio, Qlik Sense, Metabase..
+* Software de aplicação: Word, Excel, Power Point, monitores dedicados.. 
+* Software embarcados (Geralmente são SaaS): Sistemas de gestão (ERP), Sistemas de relacionamento com o cliente (CRM), Sites em geral. 
