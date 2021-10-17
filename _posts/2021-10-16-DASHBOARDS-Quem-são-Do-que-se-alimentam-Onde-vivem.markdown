@@ -7,7 +7,7 @@ image: "/assets/images/dashboards.png"
 
 ...
 
-Tomar decisões com maior eficiência e assertividade, acompanhar metas, auxiliar o monitoramento e acompanhamento dos resultados de uma organização, promover agilidade em análises são grandes caracteristicas do porque utilizamos Dashboards. 
+Tomar decisões com maior eficiência e assertividade, acompanhar metas, auxiliar o monitoramento e acompanhamento dos resultados de uma organização, promover agilidade em análises são grandes características do porque utilizamos Dashboards. 
 
 
 >**Quem são ?:**
