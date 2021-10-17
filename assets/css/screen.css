@@ -683,13 +683,14 @@ margin on the iframe, cause it breaks stuff. */
 
 .home-template .main-header-content .page-description p a {
     background-color: transparent;
-    border: 1.5px solid #3c6282;
+    border: 2.5px solid #3c6282;
     color: #3c6282;
     padding: 04px 45px;
     text-decoration: none;
     top: 15px;
     position: relative;
     letter-spacing: 2px;
+    border-radius: 20px;
 }
 
 .home-template .main-header-content .page-description p a:hover {
