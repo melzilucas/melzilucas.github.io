@@ -24,22 +24,22 @@ Atualmente com diversas ferramentas disponíveis gratuitas e *open source* no me
 * Software de aplicação: Word, Excel, Power Point, monitores dedicados;
 * Software embarcados (Geralmente são SaaS): Sistemas de gestão (ERP), Sistemas de relacionamento com o cliente (CRM), Sites em geral.
 
-**Afinal, quais são os benefícios do dashboard?**
+**Afinal, quais são os benefícios do dashboard?**<br>
 Acessar, interagir e analisar dados atualizados em tempo real (ou com intervalos maiores, não existe um padrão definido) para poder tomar melhores decisões embasadas em informações confiáveis. Os principais benefícios de um bom dashboard são:
 
-* aumentar a eficiência com rápido acesso aos painéis: eles tornam os dados acessíveis, de forma que seja fácil agir com relação a eles;
+* Aumentar a eficiência com rápido acesso aos painéis: eles tornam os dados acessíveis, de forma que seja fácil agir com relação a eles;
 
-* melhorar o processo de tomada de decisão: fica mais fácil analisar os dados com mais robustez e velocidade — o processo se torna mais intuitivo e o desempenho mais atrativo de observar;
+* Melhorar o processo de tomada de decisão: fica mais fácil analisar os dados com mais robustez e velocidade — o processo se torna mais intuitivo e o desempenho mais atrativo de observar;
 
-* melhorar o alinhamento entre as áreas da empresa: a sinergia entre os times faz com que o negócio aumente a tração e adquira melhor vantagem competitiva;
+* Melhorar o alinhamento entre as áreas da empresa: a sinergia entre os times faz com que o negócio aumente a tração e adquira melhor vantagem competitiva;
 
-* os dados ficam visíveis onde quer que você vá: por meio de uma aplicação mobile você leva as informações por todos os lugares em que fizer uma reunião de negócios.
+* Os dados ficam visíveis onde quer que você vá: por meio de uma aplicação mobile você leva as informações por todos os lugares em que fizer uma reunião de negócios.
 
 
 >A diversidade e volumetria atual de dados disponíveis com alta disponibilidade, pode-se extrair informações valiosas em pouco tempo, gerando análises cada vez mais ricas ainda quando cruzadas com outros dados relacionados.
-Na atualidade, a estratégia para direcionar o negócio certamente será embasada nas informações extraídas, analisadas e colocadas à mesa junto com *”experts”* do segmento, assim, consequentemente a probabilidade do sucesso é muito maior quando temos processos manuais, trabalhosos, tomadores de tempo e baseados no “achismo”. 
+Na atualidade, a estratégia para direcionar o negócio certamente será embasada nas informações extraídas, analisadas e colocadas à mesa junto com *”experts”* do segmento, assim, consequentemente a probabilidade do sucesso é muito maior, comparada quando temos processos manuais, trabalhosos, tomadores de tempo e baseados no “achismo”. 
 
 
 Referências:<br>
 [Hariken](https://blog.hariken.co/afinal-o-que-e-dashboard-e-para-que-serve/){:target="_blank" rel="noopener"}<br>
-[Dashboard Design](https://blog.hariken.co/afinal-o-que-e-dashboard-e-para-que-serve/){:target="_blank" rel="noopener"}<br>
+[Dashboard Design](https://www.dashboarddesign.com.br/o-que-e-dashboard/){:target="_blank" rel="noopener"}<br>
