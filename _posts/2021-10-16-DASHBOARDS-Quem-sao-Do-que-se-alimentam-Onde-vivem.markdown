@@ -11,7 +11,7 @@ Tomar decisões com maior eficiência e assertividade, acompanhar metas, auxilia
 
 
 **Quem são ?**<br>
-São painéis visuais que apresentam um conjunto de informações importantes e necesárias para alcançar um ou mais objetivos do negócio de forma organizada: indicadores, medições e métricas.
+São painéis visuais que apresentam um conjunto de informações importantes e necessárias para alcançar um ou mais objetivos do negócio de forma organizada: indicadores, medições e métricas.
 Customizáveis para atender às demandas específicas de cada empresa e suas áreas.
 Entende-se que de maneira visual o entendimento e interpretação aos dados se torna altamente atrativa e compreensível.
 
@@ -34,7 +34,7 @@ Acessar, interagir e analisar dados atualizados em tempo real (ou com intervalos
 
 
 >A diversidade e volumetria atual de dados disponíveis com alta disponibilidade, pode-se extrair informações valiosas em pouco tempo, gerando análises cada vez mais ricas ainda quando cruzadas com outros dados relacionados.
-Na atualidade, a estratégia para direcionar o negócio certamente será embasada nas informações extraídas, analisadas e colocadas à mesa junto com *”experts”* do segmento, assim, consequentemente a probabilidade do sucesso é muito maior, comparada quando temos processos manuais, trabalhosos, tomadores de tempo e baseados no “achismo”. 
+Na atualidade, a estratégia para direcionar o negócio certamente será embasada nas informações extraídas, analisadas e colocadas à mesa junto com *”experts”* do segmento, assim, consequentemente a probabilidade do sucesso é muito maior, comparado quando temos processos manuais, trabalhosos, tomadores de tempo e baseados no “achismo”. 
 
 
 Referências:<br>
