@@ -784,7 +784,7 @@ body:not(.post-template) .post-title {
 
 .post-meta {
     display: block;
-    margin: 1.75rem 0 0 0;
+    margin: 1.75rem 0 5px 0;
     font-family: "Open Sans", sans-serif;
     font-size: 1.5rem;
     line-height: 2.2rem;
@@ -1830,6 +1830,7 @@ body:not(.post-template) .post-title {
                 transform: translateY(-5px) rotate(-90deg);
     }
 }
+/*
 .line-title {
     -webkit-transition: all 0.3s ease-out;
     -moz-transition: all 0.3s ease-out;
@@ -1848,7 +1849,7 @@ body:not(.post-template) .post-title {
     display: block;
     width: 10rem;
 }
-
+*/
 /* ==========================================================================
    End of file. Animations should be the last thing here. Do not add stuff
    below this point, or it will probably fuck everything up.
