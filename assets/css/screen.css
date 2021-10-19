@@ -1830,7 +1830,14 @@ body:not(.post-template) .post-title {
                 transform: translateY(-5px) rotate(-90deg);
     }
 }
-
+.line-title {
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+    border-top: 0.2rem solid #353535;
+    display: block;
+    width: 2rem;
+}
 
 /* ==========================================================================
    End of file. Animations should be the last thing here. Do not add stuff
