@@ -28,11 +28,8 @@ Atualmente com diversas ferramentas disponíveis gratuitas e *open source* no me
 Acessar, interagir e analisar dados atualizados em tempo real (ou com intervalos maiores, não existe um padrão definido) para poder tomar melhores decisões embasadas em informações confiáveis. Os principais benefícios de um bom dashboard são:
 
 * Aumentar a eficiência com rápido acesso aos painéis: eles tornam os dados acessíveis, de forma que seja fácil agir com relação a eles;
-
 * Melhorar o processo de tomada de decisão: fica mais fácil analisar os dados com mais robustez e velocidade — o processo se torna mais intuitivo e o desempenho mais atrativo de observar;
-
 * Melhorar o alinhamento entre as áreas da empresa: a sinergia entre os times faz com que o negócio aumente a tração e adquira melhor vantagem competitiva;
-
 * Os dados ficam visíveis onde quer que você vá: por meio de uma aplicação mobile você leva as informações por todos os lugares em que fizer uma reunião de negócios.
 
 
