@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dashboards ? Quem são ? Do que se alimentam ? Por onde andam ?
+title: Dashboards. Quem são ? Do que se alimentam ? Por onde andam ?
 date: 2021-10-17 01:00:00
 categories: Visualização-de-Dados Business-Intelligence Data-Analytics
 image: "/assets/images/dashboards.png" 
