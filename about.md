@@ -3,10 +3,10 @@ layout: page
 title: Lucas Eduardo Melzi
 ---
 
-Graduado em Análise e Desenvolvimento de Sistemas, cursando Pós Graduação em Tecnologia para Negócios: AI, Data Science e Big Data. Atuando na área de Business Intelligence(Legal Intelligence) no segmento Jurídico, visualização de dados à tomada de decisão e geração de Insights.
-Experiência em Integração de Dados, Middlewares para orquestração de Dados em conjunto com a regra de negócio requerida pelo cliente. 
-Conhecimentos em desenvolvimento Web, Banco de Dados, Web Services, Webhooks, API's. Vivência em liderança de equipe.
-Disponibilidade para viagens.
+Como profissional sempre busquei o aperfeiçoamento do conhecimento nos processos, qualidade, análise de dados e desenvolvimento de sistemas. Criterioso nas escolhas com relação às inovações, tecnologias e negócios, sem perder foco nas metas e prazos definidos nos projetos, otimizando e trazendo melhorias para as operações.
+Graduado em Análise e Desenvolvimento de Sistemas, cursando Pós Graduação em Tecnologia para Negócios: AI, Data Science e Big Data. Atuando na área de Business Intelligence (Legal Intelligence) no segmento Jurídico, visualização de dados à tomada de decisão estratégica e geração de Insights.
+Analista de Business Intelligence com experiência em Tableau, ETL, Integração de Dados, Middlewares para orquestração de Dados em conjunto com a regra de negócio requerida pelo cliente. Conhecimentos em desenvolvimento Web, Banco de Dados, Web Services, API's.
+Capacidade em se relacionar facilmente, adaptação à mudanças de forma ágil e visão analítica aos processos.
 
 <br>Certificados:
 - [Aceleração em Data Science [Codenation]](https://melzilucas.github.io/assets/images/certificado_codenation.pdf){:target="_blank" rel="noopener"}
