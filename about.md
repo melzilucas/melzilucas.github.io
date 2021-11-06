@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Lucas Eduardo Melzi
@@ -8,13 +7,15 @@ Graduado em Análise e Desenvolvimento de Sistemas, cursando Pós Graduação em
 Experiência em Integração de Dados, Middlewares para orquestração de Dados em conjunto com a regra de negócio requerida pelo cliente. 
 Conhecimentos em desenvolvimento Web, Banco de Dados, Web Services, Webhooks, API's. Vivência em liderança de equipe.
 Disponibilidade para viagens.
-<br>
-Certificados:
+
+<br>Certificados:
 - [Aceleração em Data Science [Codenation]](https://melzilucas.github.io/assets/images/certificado_codenation.pdf){:target="_blank" rel="noopener"}
 
-- [Análise e Desenvolvimento de Sistemas [Anhanguera Educacional]](https://melzilucas.github.io/assets/images/certificado_codenation.pdf){:target="_blank" rel="noopener"}
+- [Análise e Desenvolvimento de Sistemas [Anhanguera Educacional]](https://melzilucas.github.io/assets/certificados/analise-desenvolvimento-de-sistemas.png){:target="_blank" rel="noopener"}
 
 - [Banco de Dados SQL [Udemy]](https://melzilucas.github.io/assets/certificados/banco-de-dados.jpg){:target="_blank" rel="noopener"}
+
+- [Imersão em Power BI [YouTube]](https://melzilucas.github.io/assets/certificados/Imersao-em-Power-BI.pdf){:target="_blank" rel="noopener"}
 
 - [Introdução à Lei Brasileira de Proteção de Dados Pessoais [Escola Virtual - Gov]](https://melzilucas.github.io/assets/certificados/LGPD.pdf){:target="_blank" rel="noopener"}
 
