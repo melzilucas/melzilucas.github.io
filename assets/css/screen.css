@@ -1321,6 +1321,10 @@ body:not(.post-template) .post-title {
     text-align: center;
 }
 
+.social img {
+    padding: 0;
+}
+
 .post-content .social a,
 .post .social a {
     text-decoration: none;
