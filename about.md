@@ -42,4 +42,5 @@ Capacidade em se relacionar facilmente, adaptação à mudanças de forma ágil 
     <a class="fa fa-facebook" href="https://www.facebook.com/lucas.melzi/" target="_blank"></a>
     <a  href="https://public.tableau.com/app/profile/lucas.eduardo.melzi" target="_blank">
         <img alt="Tableau Public" src="/assets/images/tableau-favicon.ico" width="20" height="20">
+     </a>
 </div>
