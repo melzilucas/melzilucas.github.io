@@ -1622,7 +1622,7 @@ body:not(.post-template) .post-title {
     }
 
     .page-title {
-        font-size: 3rem;
+        font-size: 2rem;
     }
 
     .post-excerpt p {
@@ -1765,6 +1765,10 @@ body:not(.post-template) .post-title {
     .post-content p .image-post {
         max-width: 380px;
         margin: 0 auto;
+    }
+
+    .vertical {
+        padding: 25px 0;
     }
 
 }
