@@ -5,11 +5,10 @@ meta_description: "Studies, datascience"
 markdown: kramdown
 highlighter: pygments
 logo: false
-paginate: 15
-baseurl: /
+paginate: 6
 domain_name: 'https://melzilucas.github.io'
 google_analytics: 'UA-164026118-1'
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
 url:            'https://melzilucas.github.io'
