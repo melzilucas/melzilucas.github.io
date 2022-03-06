@@ -461,7 +461,7 @@ margin on the iframe, cause it breaks stuff. */
 .vertical {
     display: table-cell;
     vertical-align: middle;
-    background-color: #63595940;
+    background: linear-gradient(3.75deg,#bfcddb 7.34%,#4a749b 98.61%),#1b2e3f;
 }
 
 
@@ -683,14 +683,17 @@ margin on the iframe, cause it breaks stuff. */
 
 .home-template .main-header-content .page-description p a {
     background-color: transparent;
-    border: 2.5px solid #3c6282;
-    color: #3c6282;
-    padding: 04px 80px;
+    border: 2.5px solid #00080e;
+    color: #02111e;
+    padding: 4px 80px;
     text-decoration: none;
     top: 15px;
     position: relative;
-    letter-spacing: 2px;
-    border-radius: 20px;    
+    letter-spacing: 4px;
+    border-radius: 20px;
+    font-weight: 900;
+    font-size: 18px;  
+    font-family: 'Circular-Loom';
 }
 
 .home-template .main-header-content .page-description p {
@@ -737,6 +740,7 @@ margin on the iframe, cause it breaks stuff. */
     animation: fade-in-down 0.9s;
     -webkit-animation-delay: 0.1s;
     animation-delay: 0.1s;
+    color: #000;
 }
 
 /* Every post, on every page, gets this style on its <article> tag */
