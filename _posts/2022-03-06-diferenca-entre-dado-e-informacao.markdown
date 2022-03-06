@@ -7,7 +7,7 @@ image: "/assets/images/dados-informacoes.png"
 
 ...
 
-Você sabe a real diferença entre dados e informações ? Neste post vamos explorá-los..
+Entenda agora mesmo a real diferença entre dados e informações 👇
 
 
 * #### **O que são dados ?**<br>
