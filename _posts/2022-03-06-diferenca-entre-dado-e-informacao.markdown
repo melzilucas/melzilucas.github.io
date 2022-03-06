@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Afinal, qual a diferença entre dados e informações ?
+title: Afinal, qual a diferença entre dados e informações?
 date: 2022-03-06 12:00:00 
 categories: Data-Storytelling Visualização-de-Dados Business-Intelligence Data-Analytics
 image: "/assets/images/dados-informacoes.png" 
