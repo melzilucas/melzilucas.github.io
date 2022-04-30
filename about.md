@@ -4,7 +4,7 @@ title: Lucas Eduardo Melzi
 ---
 
 Como profissional sempre busquei o aperfeiçoamento do conhecimento nos processos, qualidade, análise de dados e desenvolvimento de sistemas. Criterioso nas escolhas com relação às inovações, tecnologias e negócios, sem perder foco nas metas e prazos definidos nos projetos, otimizando e trazendo melhorias para as operações.
-Graduado em Análise e Desenvolvimento de Sistemas, cursando Pós Graduação em Tecnologia para Negócios: AI, Data Science e Big Data. Atuando na área de Novos Negócios & Produtos de Prevenção a Fraudes.
+Graduado em Análise e Desenvolvimento de Sistemas, cursando Pós Graduação em Tecnologia para Negócios: AI, Data Science e Big Data. Atuando na área de Novos Negócios & Produtos de Prevenção a Fraudes.in
 Analista de Business Intelligence com experiência em Tableau, ETL, Integração de Dados, Middlewares para orquestração de Dados em conjunto com a regra de negócio requerida pelo cliente. Conhecimentos em desenvolvimento Web, Banco de Dados, Web Services, API's.
 Capacidade em se relacionar facilmente, adaptação à mudanças de forma ágil e visão analítica aos processos.
 
@@ -37,12 +37,9 @@ Capacidade em se relacionar facilmente, adaptação à mudanças de forma ágil 
 - Bodyboard
 
 <div class="social">
-    <a class="fa fa-github" href="https://github.com/melzilucas/" target="_blank"></a>
-    <a class="fa fa-linkedin" href="https://www.linkedin.com/in/lucas-eduardo-melzi/" target="_blank"></a>
-    <a class="fa fa-twitter" href="https://twitter.com/LucasMelzi" target="_blank"></a>       
-    <a class="fa fa-instagram" href="https://www.instagram.com/melzilucas/" target="_blank"></a>
-    <!--<a class="fa fa-facebook" href="https://www.facebook.com/lucas.melzi/" target="_blank"></a>-->
-    <a  href="https://public.tableau.com/app/profile/lucas.eduardo.melzi" target="_blank">
-        <img alt="Tableau Public" src="/assets/images/tableau-favicon.ico" width="20" height="20">
-     </a>
+       <a class="fa fa-medium" href="https://medium.com/@lucas.melzi" target="_blank" alt="medium"></a>
+            <a class="fa fa-linkedin" href="https://www.linkedin.com/in/lucas-eduardo-melzi/" target="_blank"></a> 
+            <a class="fa fa-github" href="https://github.com/melzilucas/" target="_blank"></a>        
+            <a  href="https://public.tableau.com/app/profile/lucas.eduardo.melzi" target="_blank">
+                <img alt="Tableau Public" src="/assets/images/tableau-favicon.ico" width="20" height="20">
 </div>
