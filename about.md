@@ -37,9 +37,9 @@ Capacidade em se relacionar facilmente, adaptação à mudanças de forma ágil 
 - Bodyboard
 
 <div class="social">
-       <a class="fa fa-medium" href="https://medium.com/@lucas.melzi" target="_blank" alt="medium"></a>
-            <a class="fa fa-linkedin" href="https://www.linkedin.com/in/lucas-eduardo-melzi/" target="_blank"></a> 
-            <a class="fa fa-github" href="https://github.com/melzilucas/" target="_blank"></a>        
-            <a  href="https://public.tableau.com/app/profile/lucas.eduardo.melzi" target="_blank">
-                <img alt="Tableau Public" src="/assets/images/tableau-favicon.ico" width="20" height="20">
+    <a class="fa fa-medium" href="https://medium.com/@lucas.melzi" target="_blank" alt="medium"></a>
+    <a class="fa fa-linkedin" href="https://www.linkedin.com/in/lucas-eduardo-melzi/" target="_blank"></a> 
+    <a class="fa fa-github" href="https://github.com/melzilucas/" target="_blank"></a>        
+    <a  href="https://public.tableau.com/app/profile/lucas.eduardo.melzi" target="_blank">
+    <img alt="Tableau Public" src="/assets/images/tableau-favicon.ico" width="20" height="20"></a>
 </div>
