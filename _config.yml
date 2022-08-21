@@ -23,9 +23,9 @@ title_separator          : "|"
 subtitle                 :  welcome!
 name                     : "Lucas Eduardo Melzi" 
 description              : "Criei essa página com propósito de trazer alguns estudos que estou realizando e também compartilhar artigos sobre a área de tecnologia e afins.."
-url                      : 'https://melzilucas.github.io'
+url                      : https://lucaseduardomelzi.com.br/
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : melzilucas/melzilucas.github.io
+repository               : #melzilucas/melzilucas.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
