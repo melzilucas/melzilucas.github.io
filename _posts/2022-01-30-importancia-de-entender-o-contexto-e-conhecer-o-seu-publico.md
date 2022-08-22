@@ -35,4 +35,4 @@ Sem essa compreensão inicial a possibilidade de que as expectativas não sejam 
 **Precisamos lembrar que:** a finalidade das empresas utilizarem *Dashboards* é facilitar a tomada de decisão com maior eficiência e assertividade. Logo, não podemos permitir que as pessoas fiquem muito tempo analisando os painéis construídos. O propósito é acelerar a compreensão e interpretação dos dados de forma clara e objetiva.
 
 Falamos bastante sobre *Dashboard*, mas afinal o que é ?
-[Clique aqui](https://lucaseduardomelzi.com.br/visualiza%C3%A7%C3%A3o-de-dados/business-intelligence/data-analytics/2021/10/17/DASHBOARDS-Quem-sao-Do-que-se-alimentam-Onde-vivem.html){:target="_blank" rel="noopener"} para acessar um conteúdo que desenvolvi onde é abordado tudo sobre *Dashboards* e suas características.
+[Clique aqui](https://lucaseduardomelzi.com.br/visualiza%C3%A7%C3%A3o-de-dados/business-intelligence/data-analytics/DASHBOARDS-Quem-sao-Do-que-se-alimentam-Onde-vivem/){:target="_blank" rel="noopener"} para acessar um conteúdo que desenvolvi onde é abordado tudo sobre *Dashboards* e suas características.

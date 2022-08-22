@@ -27,11 +27,13 @@ Para adicionar a chave, execute o comando:<br>
 $ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys [chave] 
 ~~~
 
-<p><img class="image-post" src="/assets/images/02.png" width="150"></p>
+<p><img class="image-post" src="/assets/images/02.png"></p>
 Após adicionar a chave, rodei o comando para atualizar o gerenciador de pacotes:
 ~~~python
 $ sudo apt-get update
 ~~~
 
-<p><img class="image-post" src="/assets/images/03.png" width="150"><br>
+
+<p><img class="image-post" src="/assets/images/03.png"><br>
+<br>
 Conforme imagem acima, não ocorreu mais nenhum erro durante a atualização e no meu caso, o terminal gnome e as atualizações do sistema, voltaram a funcionar normalmente.
