@@ -10,7 +10,7 @@ tags:
 image: "/assets/images/dados-informacoes.png"
 ---
 
-Entenda agora mesmo a real diferença entre dados e informações
+Entenda agora mesmo a real diferença entre dados e informações.
 
 
 * #### **O que são dados ?**<br>
