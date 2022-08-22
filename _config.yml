@@ -109,7 +109,7 @@ author:
   name             : "Lucas Eduardo Melzi"
   avatar           : "/assets/images/profile.png"
   bio              : "Aqui você vai encontrar artigos sobre **tecnologia** e **dados**"
-  location         : "Rio Grande do Sul"
+  location         : #"Rio Grande do Sul"
   email            :
   links:
     - label: "Email"
