@@ -12,7 +12,6 @@ image: "/assets/images/dashboards.png"
 Tomar decisões com maior eficiência e assertividade, acompanhar metas, auxiliar o monitoramento e acompanhamento dos resultados de uma organização, promover agilidade em análises são grandes características do porque utilizamos Dashboards. 
 
 
-
 **Quem são ?**<br>
 São painéis visuais que apresentam um conjunto de informações importantes e necessárias para alcançar um ou mais objetivos do negócio de forma organizada: indicadores, medições e métricas.
 Customizáveis para atender às demandas específicas de cada empresa e suas áreas.
