@@ -130,12 +130,16 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/lucas-eduardo-melzi/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/melzilucas/"
     - label: "Tableau Public"
       icon: "fas fa-fw fa-link"
       url: "https://public.tableau.com/app/profile/lucas.eduardo.melzi/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/melzilucas/"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCimlZh6eMrq1fht8R7G0ndA"
+
 
 
 # Site Footer
@@ -165,6 +169,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/melzilucas/"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCimlZh6eMrq1fht8R7G0ndA"
 
 
 # Reading Files
