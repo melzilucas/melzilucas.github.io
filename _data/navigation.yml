@@ -8,7 +8,7 @@ main:
     url: /year-archive/
   - title: "Portfólio"
     url: https://public.tableau.com/app/profile/lucas.eduardo.melzi/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Livros"
+    url: /livros/
+  - title: "Contato"
+    url: /contato/
