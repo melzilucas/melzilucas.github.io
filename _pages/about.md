@@ -5,7 +5,7 @@ layout: single
 ---
 
 
-Me chamo Lucas Eduardo Melzi, tenho 28 anos. Sou fascinado por tecnologia e tudo que envolve dados, gosto de rotinas produtivas, leituras, esportes e alimentação saúdavel.<br>
+Me chamo Lucas Eduardo Melzi, tenho 28 anos. Sou fascinado por tecnologia e tudo que envolve dados, gosto de rotinas produtivas, leituras, esportes e alimentação saudável.<br>
 Graduado em Análise e Desenvolvimento de Sistemas, Pós Graduado em Tecnologia para Negócios: AI, Data Science e Big Data pela PUC-RS.
 Sempre busquei o aperfeiçoamento do conhecimento nos processos, qualidade, análise de dados e desenvolvimento de sistemas. Criterioso nas escolhas com relação às inovações, tecnologias e negócios, sem perder foco nas metas e prazos definidos nos projetos, otimizando e trazendo melhorias para as operações.
 Analista de Business Intelligence com experiência em Tableau, ETL, Integração de Dados, Middlewares para orquestração de Dados em conjunto com a regra de negócio requerida pelo cliente. Conhecimentos em desenvolvimento Web, Banco de Dados, Web Services, API's, metodologias ágeis. 
