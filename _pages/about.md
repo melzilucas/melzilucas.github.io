@@ -10,7 +10,6 @@ Graduado em Análise e Desenvolvimento de Sistemas, Pós Graduado em Tecnologia 
 Sempre busquei o aperfeiçoamento do conhecimento nos processos, qualidade, análise de dados e desenvolvimento de sistemas. Criterioso nas escolhas com relação às inovações, tecnologias e negócios, sem perder foco nas metas e prazos definidos nos projetos, otimizando e trazendo melhorias para as operações.
 Analista de Business Intelligence com experiência em Tableau, ETL, Integração de Dados, Middlewares para orquestração de Dados em conjunto com a regra de negócio requerida pelo cliente. Conhecimentos em desenvolvimento Web, Banco de Dados, Web Services, API's, metodologias ágeis. 
 Capacidade em se relacionar facilmente, adaptação à mudanças de forma ágil e visão analítica aos processos.
-Atuando em Prevenção a Fraudes na maior Food Delivery da América Latina, iFood.
 <br>Certificados:
 - [Aceleração em Data Science [Codenation]](https://melzilucas.github.io/assets/images/certificado_codenation.pdf){:target="_blank" rel="noopener"}
 
